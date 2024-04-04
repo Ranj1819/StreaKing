@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_app"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".ui.Start_Page">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:paddingTop="200dp"
+        android:textAlignment="center"
+        android:textSize="50sp"
+        android:textColor="@color/black"
+        android:text="@string/app_name" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:id="@+id/start_button"
+        android:layout_height="40dp"
+        android:layout_marginTop="300dp"
+        android:text="Let's get started"
+        android:background="@drawable/bg_start_button"/>
+</LinearLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773155731203",
+    "project_id": "streaking-77c9e",
+    "storage_bucket": "streaking-77c9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773155731203:android:34e7591e4da5fa3d441b36",
+        "android_client_info": {
+          "package_name": "com.example.streaking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfhWBmpl_PsmwsYDxwXdcVM9d08Vi6H3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
